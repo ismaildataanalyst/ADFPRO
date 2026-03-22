@@ -46,31 +46,25 @@ ADFPRO/
 │   ├── transformation_pipeline.json
 │   ├── orchestration_pipeline.json
 │
-
 ├── dataset/
 │   ├── source_dataset.json
 │   ├── sink_dataset.json
 │
-
 ├── linkedService/
 │   ├── adls_linked_service.json
 │   ├── sql_linked_service.json
 │
-
 ├── integrationRuntime/
 │   ├── auto_integration_runtime.json
 │
-
 ├── trigger/
 │   ├── schedule_trigger.json
 │
-
 ├── data/
 │   ├── bronze/
 │   ├── silver/
 │   ├── gold/
 │
-
 └── README.md
 
 #### ✨ Key Features
@@ -108,8 +102,11 @@ This project demonstrates:
 
 #### 🔐 Prerequisites
 Azure Subscription
+
 Basic knowledge of ETL/ELT
+
 Azure Data Factory fundamentals
+
 Understanding of Data Lake concepts
 
 ---
