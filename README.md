@@ -1,9 +1,9 @@
 
-# 🚀 ADFPRO – Azure Data Factory End-to-End Data Engineering Project
+#  ADFPRO – Azure Data Factory End-to-End Data Engineering Project
 
 ---
 
-### 📌 Project Overview
+###  Project Overview
 
 ADFPRO is a comprehensive end-to-end data engineering project built using Azure Data Factory, designed to demonstrate real-world ETL/ELT pipeline implementation.
 
@@ -11,22 +11,26 @@ This project focuses on building a scalable, modular, and automated data pipelin
 
 ---
 
-### 🎯 Key Objectives:
+###  Key Objectives:
 
-✅ Build robust data ingestion pipelines
+ Build robust data ingestion pipelines
 
-✅ Implement transformation logic using ADF Data Flows / SQL
+ Implement transformation logic using ADF Data Flows / SQL
 
-✅ Design scalable data storage architecture
+ Design scalable data storage architecture
 
-✅ Enable analytics-ready datasets
+ Enable analytics-ready datasets
 
-✅ Apply industry-standard data engineering practices
+ Apply industry-standard data engineering practices
 
-#### 🏗️ Architecture Overview
+---
+
+####  Architecture Overview
 Source Data → Azure Data Factory → Data Lake Storage → Data Transformation → Analytics Layer 
 
-#### ⚙️ Tools & Technologies Used
+---
+
+####  Tools & Technologies Used
 | Technology                    | Purpose                  |
 | ----------------------------- | ------------------------ |
 | Azure Data Factory            | Pipeline orchestration   |
@@ -36,8 +40,9 @@ Source Data → Azure Data Factory → Data Lake Storage → Data Transformation
 | GitHub                        | Version control          |
 | Power BI                      | Visualization (optional) |
 
+---
 
-#### 📂 Project Structure
+####  Project Structure
 
 ADFPRO/
 │
@@ -67,40 +72,45 @@ ADFPRO/
 │
 └── README.md
 
-#### ✨ Key Features
-✅ End-to-end ETL pipeline
+---
 
-✅ Medallion architecture implementation
+####  Key Features
+ End-to-end ETL pipeline
 
-✅ Modular pipeline design
+ Medallion architecture implementation
 
-✅ Parameterized pipelines
+ Modular pipeline design
 
-✅ Reusable datasets & linked services
+ Parameterized pipelines
 
-✅ Trigger-based automation
+ Reusable datasets & linked services
 
-✅ Scalable architecture
+ Trigger-based automation
 
-✅ Error handling & monitoring
+ Scalable architecture
 
+ Error handling & monitoring
 
-#### 🧠 Learning Outcomes
+---
+
+####  Learning Outcomes
 This project demonstrates:
 
-✔ Real-world Azure Data Factory implementation
+ Real-world Azure Data Factory implementation
 
-✔ Pipeline orchestration techniques
+ Pipeline orchestration techniques
 
-✔ Data Lake architecture (Bronze/Silver/Gold)
+ Data Lake architecture 
 
-✔ Data transformation using Data Flow / SQL
+ Data transformation using Data Flow / SQL
 
-✔ Debugging and monitoring pipelines
+ Debugging and monitoring pipelines
 
-✔ Git integration with ADF
+ Git integration with ADF
 
-#### 🔐 Prerequisites
+---
+
+####  Prerequisites
 Azure Subscription
 
 Basic knowledge of ETL/ELT
@@ -111,7 +121,7 @@ Understanding of Data Lake concepts
 
 ---
 
-### 🏁 Conclusion
+###  Conclusion
 
 ADFPRO represents a production-grade Azure Data Factory solution, demonstrating how modern data pipelines are designed, orchestrated, and optimized for analytics.
 
