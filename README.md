@@ -14,9 +14,13 @@ This project focuses on building a scalable, modular, and automated data pipelin
 ### 🎯 Key Objectives:
 
 ✅ Build robust data ingestion pipelines
+
 ✅ Implement transformation logic using ADF Data Flows / SQL
+
 ✅ Design scalable data storage architecture
+
 ✅ Enable analytics-ready datasets
+
 ✅ Apply industry-standard data engineering practices
 
 #### 🏗️ Architecture Overview
@@ -34,6 +38,7 @@ Source Data → Azure Data Factory → Data Lake Storage → Data Transformation
 
 
 #### 📂 Project Structure
+
 ADFPRO/
 │
 ├── pipeline/
@@ -41,35 +46,48 @@ ADFPRO/
 │   ├── transformation_pipeline.json
 │   ├── orchestration_pipeline.json
 │
+
 ├── dataset/
 │   ├── source_dataset.json
 │   ├── sink_dataset.json
 │
+
 ├── linkedService/
 │   ├── adls_linked_service.json
 │   ├── sql_linked_service.json
 │
+
 ├── integrationRuntime/
 │   ├── auto_integration_runtime.json
 │
+
 ├── trigger/
 │   ├── schedule_trigger.json
 │
+
 ├── data/
 │   ├── bronze/
 │   ├── silver/
 │   ├── gold/
 │
+
 └── README.md
 
 #### ✨ Key Features
 ✅ End-to-end ETL pipeline
+
 ✅ Medallion architecture implementation
+
 ✅ Modular pipeline design
+
 ✅ Parameterized pipelines
+
 ✅ Reusable datasets & linked services
+
 ✅ Trigger-based automation
+
 ✅ Scalable architecture
+
 ✅ Error handling & monitoring
 
 
@@ -77,10 +95,15 @@ ADFPRO/
 This project demonstrates:
 
 ✔ Real-world Azure Data Factory implementation
+
 ✔ Pipeline orchestration techniques
+
 ✔ Data Lake architecture (Bronze/Silver/Gold)
+
 ✔ Data transformation using Data Flow / SQL
+
 ✔ Debugging and monitoring pipelines
+
 ✔ Git integration with ADF
 
 #### 🔐 Prerequisites
