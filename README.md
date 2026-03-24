@@ -70,49 +70,33 @@ ADFPRO/
 ---
 
 ####  Key Features
- End-to-end ETL pipeline
-
- Medallion architecture implementation
-
- Modular pipeline design
-
- Parameterized pipelines
-
- Reusable datasets & linked services
-
- Trigger-based automation
-
- Scalable architecture
-
- Error handling & monitoring
+- End-to-end ETL pipeline
+- Medallion architecture implementation
+- Modular pipeline design
+- Parameterized pipelines
+- Reusable datasets & linked services
+- Trigger-based automation
+- Scalable architecture
+- Error handling & monitoring
 
 ---
 
 ####  Learning Outcomes
 This project demonstrates:
-
- Real-world Azure Data Factory implementation
-
- Pipeline orchestration techniques
-
- Data Lake architecture 
-
- Data transformation using Data Flow / SQL
-
- Debugging and monitoring pipelines
-
- Git integration with ADF
+- Real-world Azure Data Factory implementation
+- Pipeline orchestration techniques
+- Data Lake architecture 
+- Data transformation using Data Flow / SQL
+- Debugging and monitoring pipelines
+- Git integration with ADF
 
 ---
 
 ####  Prerequisites
-Azure Subscription
-
-Basic knowledge of ETL/ELT
-
-Azure Data Factory fundamentals
-
-Understanding of Data Lake concepts
+- Azure Subscription
+- Basic knowledge of ETL/ELT
+- Azure Data Factory fundamentals
+- Understanding of Data Lake concepts
 
 ---
 
