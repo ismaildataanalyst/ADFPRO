@@ -13,15 +13,11 @@ This project focuses on building a scalable, modular, and automated data pipelin
 
 ###  Key Objectives:
 
- Build robust data ingestion pipelines
-
- Implement transformation logic using ADF Data Flows / SQL
-
- Design scalable data storage architecture
-
- Enable analytics-ready datasets
-
- Apply industry-standard data engineering practices
+-Build robust data ingestion pipelines
+-Implement transformation logic using ADF Data Flows / SQL
+-Design scalable data storage architecture
+-Enable analytics-ready datasets
+-Apply industry-standard data engineering practices
 
 ---
 
